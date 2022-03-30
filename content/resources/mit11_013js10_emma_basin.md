@@ -3,6 +3,7 @@ content_type: resource
 description: Example of student work for a project on American urban history.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-013j-american-urban-history-i-spring-2010/a801725d0b59ebfe6b3f439bb784e42d_MIT11_013JS10_emma_basin.pdf
 file_type: application/pdf
+parent_uid: 42c86c9a-3725-8612-c1b3-46fbc61ade6b
 resourcetype: Document
 title: 'The Clean Water Act up "Poop" Creek: A Case Study of How Local Dynamics Muddied
   the Clean Water Act in New Bedford, Massachusetts'
